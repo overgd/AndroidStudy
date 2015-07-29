@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/start" android:orderInCategory="1" android:title="시작"></item>
+    <item android:id="@+id/stop" android:orderInCategory="2" android:title="중지"></item>
+    <item android:id="@+id/reset" android:orderInCategory="3" android:title="초기화"></item>
+    
+
+</menu>
